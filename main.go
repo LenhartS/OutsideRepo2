@@ -1,7 +1,8 @@
 package main
 
 import "fmt"
-import github.com/LenhartS/OutsideRepo3/main.go
+
+//import github.com/LenhartS/OutsideRepo3/main.go
 
 func main() {
 	fmt.Println("This file is in GoLangOutsideRepo2 ")
