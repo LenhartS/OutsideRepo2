@@ -1,4 +1,4 @@
-module github.com/LenhartS/Repo2
+module github.com/LenhartS/OutsideRepo2
 
 go 1.23.4
 
