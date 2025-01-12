@@ -7,7 +7,7 @@ func SaySomething2() string {
 	return s1
 }
 
-func GetSomethingfromRepo3() string {
-	s2 := Repo3Pkg.SaySomething3()
-	return s2
-}
+//func GetSomethingfromRepo3() string {
+//	s2 := Repo3Pkg.SaySomething3()
+//	return s2
+//}
