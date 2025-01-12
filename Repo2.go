@@ -1,3 +1,4 @@
+package Repo2
 
 import (
 	"github.com/LenhartS/OutsideRepo3/"
@@ -9,6 +10,6 @@ func SaySomething2() string {
 }
 
 func SaySomethingfromRepo3() string {
-	s2 := SaySomething3()
+	s2 := OutsideRepo3.SaySomething3()
 	return s2
 }
